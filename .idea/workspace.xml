@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64234643-b378-4a94-8639-952df4c12135" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson1_Maven/C1_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson1_Maven/c1_D.java" afterDir="false" />
+    <list default="true" id="64234643-b378-4a94-8639-952df4c12135" name="Changes" comment="Intro">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C1_DriverGetMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C2_GetMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C3_DriverNavigateMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C4_NavigationsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C5_ManageWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C6_ImplicitlyWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson1_Maven/C1_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1_Maven/C1_Intro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +49,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C1_Intro">
-    <configuration name="C1_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1_Maven.C1_Intro" />
+  <component name="RunManager" selected="Application.C6_ImplicitlyWait">
+    <configuration name="C2_GetMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C2_GetMethods" />
       <module name="Selenium_Webdriver_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1_Maven.*" />
+          <option name="PATTERN" value="Lesson2_DriverMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C2_Drivers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_Driver_Methods.C2_Drivers" />
+    <configuration name="C3_DriverNavigateMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C3_DriverNavigateMethods" />
       <module name="Selenium_Webdriver_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C2_Driver_Methods.*" />
+          <option name="PATTERN" value="Lesson2_DriverMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +76,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c1_D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1_Maven.c1_D" />
+    <configuration name="C4_NavigationsMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C4_NavigationsMethods" />
       <module name="Selenium_Webdriver_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1_Maven.*" />
+          <option name="PATTERN" value="Lesson2_DriverMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C5_ManageWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C5_ManageWindow" />
+      <module name="Selenium_Webdriver_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2_DriverMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C6_ImplicitlyWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C6_ImplicitlyWait" />
+      <module name="Selenium_Webdriver_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2_DriverMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,9 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C1_Intro" />
-        <item itemvalue="Application.c1_D" />
-        <item itemvalue="Application.C2_Drivers" />
+        <item itemvalue="Application.C6_ImplicitlyWait" />
+        <item itemvalue="Application.C5_ManageWindow" />
+        <item itemvalue="Application.C4_NavigationsMethods" />
+        <item itemvalue="Application.C3_DriverNavigateMethods" />
+        <item itemvalue="Application.C2_GetMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +134,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667657138850</updated>
     </task>
+    <task id="LOCAL-00001" summary="Intro">
+      <created>1667757387856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667757387856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,5 +154,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intro" />
   </component>
 </project>

@@ -3,6 +3,8 @@ package Lesson1_Maven;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.sql.Driver;
+
 public class C1_Intro {
 // Normalde Seleniumun kendi IDE'si de var fakat biz daha kullanışlı oldugu için IntelliJ kullanıyoruz.
     // İntelliJ'de yeni bir proje açtıgımızda öncelikle Selenium kütüphanelerini projeye eklememiz gerekir
@@ -23,7 +25,6 @@ public static void main(String[] args) throws InterruptedException {
 // driver.close classın sonuna yazılır.Çünkü bu kod çalışınca driver'imiz kapanır.
     // bu koddan sonra yeniden bir browser açmak istiyorsak driver'a yeni bir deger atamalıyız.
 
-    driver =new ChromeDriver();
 
 
 }
