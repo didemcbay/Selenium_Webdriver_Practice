@@ -1,4 +1,4 @@
-package C1_Maven;
+package Lesson1_Maven;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
