@@ -4,16 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64234643-b378-4a94-8639-952df4c12135" name="Changes" comment="Intro">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C1_DriverGetMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C2_GetMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C3_DriverNavigateMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C4_NavigationsMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C5_ManageWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C6_ImplicitlyWait.java" afterDir="false" />
+    <list default="true" id="64234643-b378-4a94-8639-952df4c12135" name="Changes" comment="Web Element Practise">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson1_Maven/C1_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1_Maven/C1_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson1_Maven/C1_Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson1_Maven/c1_D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C1_DriverGetMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C2_GetMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C3_DriverNavigateMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C4_NavigationsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C5_ManageWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C6_ImplicitlyWait.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson3_WebElements/C0_Lastlesson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson3_WebElements/C1_Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson3_WebElements/C2_LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson3_WebElements/C3_WebElementGetMethodlari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson4_xPathCSSSelector/C01_Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson4_xPathCSSSelector/C02_Xpath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson4_xPathCSSSelector/C03_XpathText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson4_xPathCSSSelector/C04_XPathCSSSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson4_xPathCSSSelector/C05_RelativeLocators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson4_xPathCSSSelector/C06_ExampleWebElement_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson4_xPathCSSSelector/C07_ExampleWebElement_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson5_SeleniumPractices/c1_driverfindelement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson5_SeleniumPractices/c2_questiontitle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson5_SeleniumPractices/c3_titleverify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson5_SeleniumPractices/c4_titleurlincluded.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +71,15 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C6_ImplicitlyWait">
-    <configuration name="C2_GetMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C2_GetMethods" />
-      <module name="Selenium_Webdriver_Practice" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCases">
+    <configuration name="C1_DriverGetMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C1_DriverGetMethods" />
+      <module name="Commencis_case" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson2_DriverMethods.*" />
@@ -63,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C3_DriverNavigateMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C3_DriverNavigateMethods" />
-      <module name="Selenium_Webdriver_Practice" />
+    <configuration name="c3_titleverify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5_SeleniumPractices.c3_titleverify" />
+      <module name="Commencis_case" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2_DriverMethods.*" />
+          <option name="PATTERN" value="Lesson5_SeleniumPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C4_NavigationsMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C4_NavigationsMethods" />
-      <module name="Selenium_Webdriver_Practice" />
+    <configuration name="c4_titleurlincluded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5_SeleniumPractices.c4_titleurlincluded" />
+      <module name="Commencis_case" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2_DriverMethods.*" />
+          <option name="PATTERN" value="Lesson5_SeleniumPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,39 +116,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C5_ManageWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C5_ManageWindow" />
-      <module name="Selenium_Webdriver_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2_DriverMethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="TestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Commencis_case" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C6_ImplicitlyWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2_DriverMethods.C6_ImplicitlyWait" />
-      <module name="Selenium_Webdriver_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2_DriverMethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="TestCases.latest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Commencis_case" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="latest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C6_ImplicitlyWait" />
-        <item itemvalue="Application.C5_ManageWindow" />
-        <item itemvalue="Application.C4_NavigationsMethods" />
-        <item itemvalue="Application.C3_DriverNavigateMethods" />
-        <item itemvalue="Application.C2_GetMethods" />
+        <item itemvalue="TestNG.TestCases" />
+        <item itemvalue="TestNG.TestCases.latest2" />
+        <item itemvalue="Application.C1_DriverGetMethods" />
+        <item itemvalue="Application.c4_titleurlincluded" />
+        <item itemvalue="Application.c3_titleverify" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +165,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667757387856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Driver Methods">
+      <created>1667761280535</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667761280535</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Web Elements Locators">
+      <created>1667762963333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667762963333</updated>
+    </task>
+    <task id="LOCAL-00004" summary="XPath, Text, CSS Selector and Relative Locators">
+      <created>1667848590057</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667848590057</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Web Element Practise">
+      <created>1667982568763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667982568763</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +209,39 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intro" />
+    <MESSAGE value="Driver Methods" />
+    <MESSAGE value="Web Elements Locators" />
+    <MESSAGE value="XPath, Text, CSS Selector and Relative Locators" />
+    <MESSAGE value="Web Element Practise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Web Element Practise" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson2_DriverMethods/C2_GetMethods.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson5_SeleniumPractices/c1_driverfindelement.java</url>
+          <line>12</line>
+          <properties class="Lesson5_SeleniumPractices.c1_driverfindelement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Lesson5_SeleniumPractices/c4_titleurlincluded.java</url>
+          <line>9</line>
+          <properties class="Lesson5_SeleniumPractices.c4_titleurlincluded">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
